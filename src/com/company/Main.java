@@ -46,7 +46,9 @@ public class Main {
 //{
 //    System.out.println("The number " + var + " is NEGATIVE");
 //}
-        ArithmeticGame obje = new ArithmeticGame();
-        obje.start();
+//        ArithmeticGame obje = new ArithmeticGame();
+//        obje.start();
+    ChineseZodiac zod = new ChineseZodiac();
+    zod.zodiac();
     }
 }
