@@ -48,7 +48,10 @@ public class Main {
 //}
 //        ArithmeticGame obje = new ArithmeticGame();
 //        obje.start();
-    ChineseZodiac zod = new ChineseZodiac();
-    zod.zodiac();
+//    ChineseZodiac zod = new ChineseZodiac();
+//    zod.zodiac();
+        GuessNumberGame numberGame = new GuessNumberGame();
+        numberGame.start();
+
     }
 }
